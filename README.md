@@ -11,7 +11,7 @@
   <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Bi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="right" alt="Rafa-pic" height="200" src="https://cdn.discordapp.com/attachments/455437352651849739/1008755067043729500/Me2.png">
+  <img align="right" alt="Rafa-pic" height="180" src="https://cdn.discordapp.com/attachments/455437352651849739/1008755067043729500/Me2.png">
   
 </div>
   
