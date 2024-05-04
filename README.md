@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <img align="right" alt="Rafa-pic" height="180" src="https://cdn.discordapp.com/attachments/455437352651849739/1008755067043729500/Me2.png">
+  <img align="right" alt="perfil-pic" height="180" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihb4UpXKXcHER9LfJt8AhjFjubwCMqCf-PspxOLn0TTUfwLi8esKWQAn2jCPyGG0JtFcGm0u1on_q2nmjhKAyTgSbMTkAQuFZiw=w1920-h953">
 </div>
   
 <br>
